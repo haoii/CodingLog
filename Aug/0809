@@ -1,1 +1,5 @@
-#git
+## git总结
+
+1. git init
+
+2. git remote add origin git@github
